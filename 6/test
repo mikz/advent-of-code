@@ -1,0 +1,4 @@
+toggle 0,0 through 999,0
+turn on 499,499 through 500,500
+turn on 499,499 through 500,500
+toggle 499,499 through 500,500
